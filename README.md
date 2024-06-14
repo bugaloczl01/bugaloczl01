@@ -1,4 +1,5 @@
 ## Hi there 👋
+Sou gustavo, aluno do ensino médio e estou estudando na Alura na disciplina de Tecnologia da Escola.
 
 <!--
 **bugaloczl01/bugaloczl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
